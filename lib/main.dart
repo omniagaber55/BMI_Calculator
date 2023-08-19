@@ -1,6 +1,6 @@
 
 import 'BMI_cala.dart';
-import 'package:bmi/BMI.dart';
+import 'package:bmi/BMI_Result.dart';
 import 'package:flutter/material.dart';
 
 
